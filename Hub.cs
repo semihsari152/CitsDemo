@@ -21,6 +21,7 @@ namespace CitsDemo
         {
             InitializeComponent();
             getDatas();
+            MessageBox.Show("VS'den ekledim");
         }
         public void getDatas()
         {
