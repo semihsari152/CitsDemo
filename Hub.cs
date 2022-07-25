@@ -21,7 +21,6 @@ namespace CitsDemo
         {
             InitializeComponent();
             getDatas();
-            MessageBox.Show("deneme master ");
         }
         public void getDatas()
         {
