@@ -24,7 +24,7 @@ namespace CitsDemo
         {
             string fname = tbxFName.Text;
 
-            string path = $"C:\\Users\\ssari-stj\\Desktop\\Learnings\\{fname}.txt";
+            string path = $"C:\\Users\\Semih\\OneDrive\\Masaüstü\\Learnings\\{fname}.txt";
 
             try
             {

@@ -84,7 +84,7 @@ namespace CitsDemo
         public void display()
         {
             DateTime now = DateTime.Now;
-            DateTime finish = new DateTime(2022, 7, 28); 
+            DateTime finish = new DateTime(2022, 8, 28); 
             TimeSpan ts = finish - now ;
             
 
